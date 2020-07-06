@@ -1,0 +1,10 @@
+C:\Users\Silver-ty\source\repos\Shpora\Shpora\bin\Debug\Shpora.exe.config
+C:\Users\Silver-ty\source\repos\Shpora\Shpora\bin\Debug\Shpora.exe
+C:\Users\Silver-ty\source\repos\Shpora\Shpora\bin\Debug\Shpora.pdb
+C:\Users\Silver-ty\source\repos\Shpora\Shpora\obj\Debug\Shpora.csprojResolveAssemblyReference.cache
+C:\Users\Silver-ty\source\repos\Shpora\Shpora\obj\Debug\Shpora.Form1.resources
+C:\Users\Silver-ty\source\repos\Shpora\Shpora\obj\Debug\Shpora.Properties.Resources.resources
+C:\Users\Silver-ty\source\repos\Shpora\Shpora\obj\Debug\Shpora.csproj.GenerateResource.Cache
+C:\Users\Silver-ty\source\repos\Shpora\Shpora\obj\Debug\Shpora.csproj.CoreCompileInputs.cache
+C:\Users\Silver-ty\source\repos\Shpora\Shpora\obj\Debug\Shpora.exe
+C:\Users\Silver-ty\source\repos\Shpora\Shpora\obj\Debug\Shpora.pdb
